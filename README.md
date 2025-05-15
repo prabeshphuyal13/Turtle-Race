@@ -1,6 +1,6 @@
-# Turtle Racing 
+# Turtle Race
 
-A fun turtle racing built with Python's `turtle` module. Watch as colorful turtles race to the finish line, and see who wins the gold, silver, and bronze medals!
+A fun turtle race built with Python's `turtle` module. Watch as colorful turtles race to the finish line, and see who wins the gold, silver, and bronze medals!
 
 ## Features
 
@@ -22,7 +22,7 @@ A fun turtle racing built with Python's `turtle` module. Watch as colorful turtl
 
 ## Screenshot
 
-<img src="Screenshot/ss1.png" alt="Turtle Race Screenshot" width="300" height="300">
-<img src="Screenshot/ss2.png" alt="Turtle Race Screenshot" width="300" height="300">
+<img src="Screenshot/ss1.png" alt="Turtle Race Screenshot" width="250" height="250">
+<img src="Screenshot/ss2.png" alt="Turtle Race Screenshot" width="250" height="250">
 
 Enjoy the race!
